@@ -1,0 +1,27 @@
+{
+  "name": "node-eventemitter-example",
+  "version": "1.0.0",
+  "description": "example code to demonstrate how to work with an EventEmitter",
+  "main": "basics.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartaelterman/node-eventemitter-example.git"
+  },
+  "keywords": [
+    "node",
+    "eventemitter",
+    "test"
+  ],
+  "author": "Bart Aelterman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bartaelterman/node-eventemitter-example/issues"
+  },
+  "homepage": "https://github.com/bartaelterman/node-eventemitter-example#readme",
+  "dependencies": {
+    "eventemitter2": "^2.0.0"
+  }
+}
